@@ -1,4 +1,6 @@
-# New Project
+# CV MTWD - 2020
+
+*This is my updated CV for the year of COVID-19*
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
